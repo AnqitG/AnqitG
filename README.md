@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- DARK NEON HERO BANNER (100% Guaranteed Image Render) -->
+<!-- DARK NEON HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,40:0d1b2a,80:161b22,100:030712&height=220&section=header&text=ANKIT%20GUPTA&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=DEVOPS%20ENGINEER%20%7C%20AZURE%20%7C%20TERRAFORM%20%7C%20OBSERVABILITY&descAlignY=65&descSize=18&descColor=00D4FF&stroke=00D4FF&strokeWidth=2" width="100%" alt="Header Banner" />
 
 <br/>
@@ -10,9 +10,9 @@
 
 <br/>
 
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-00A4EF?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/services/devops/)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-CI%2FCD-00A4EF?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/services/devops/)
 [![GitHub](https://img.shields.io/badge/GitHub-AnqitG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnqitG)
 
 </div>
@@ -85,11 +85,29 @@ Awards         : Employee of the Month & Multiple Recognition Awards
 
 <div align="center">
 
-[![terraform-azure-modular-infra](https://github-readme-stats.vercel.app/api/pin/?username=AnqitG&repo=terraform-azure-modular-infra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF)](https://github.com/AnqitG/terraform-azure-modular-infra)
+| 📦 [terraform-azure-modular-infra](https://github.com/AnqitG/terraform-azure-modular-infra) |
+| :--- |
+| **Complete Enterprise Azure Landing Zone with Reusable Terraform Modules & CI/CD** |
+| 🧩 **Modular Architecture:** Independent modules for RG, VNet, Subnet, PIP, NIC, Bastion & Linux VM |
+| 🛡️ **DevSecOps Integration:** Automated TFLint, TFSec, Gitleaks & Trivy security gates |
+| 🔁 **Azure DevOps CI/CD:** Multi-stage YAML pipelines with manual approval validation gates |
+| 🔐 **Zero-Trust Security:** Azure Key Vault runtime secrets & private Azure Bastion VM access |
 
 </div>
 
-> 🧩 **Modular Terraform Engine** · ☁️ **Azure Landing Zone** · 🔁 **Azure DevOps CI/CD Templates** · 🛡️ **DevSecOps Gating** · 🔐 **Azure Bastion & Key Vault Zero-Trust**
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnqitG/AnqitG/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnqitG/AnqitG/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AnqitG/AnqitG/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
