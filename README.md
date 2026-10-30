@@ -1,26 +1,23 @@
 <!-- ████████████████████  ANIMATED HEADER BANNER  ████████████████████ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,15,24&height=280&section=header&text=Anqit%20Gupta&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20IaC%20Practitioner&descAlignY=62&descSize=20&descColor=00D4FF" width="100%" alt="Anqit Gupta Banner"/>
+<!-- Banner — type=waving (guaranteed valid on capsule-render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Anqit%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20IaC%20Practitioner&descAlignY=58&descSize=20&descColor=00D4FF" width="100%" alt="Anqit Gupta Banner"/>
 
-<!-- ─────────────  Animated Typing SVG  ───────────── -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00D4FF&background=00000000&center=true&vCenter=true&width=750&height=50&lines=☁️+Azure+Infrastructure+Automation;🏗️+Terraform+%7C+IaC+%7C+Modular+Design;🔁+Azure+DevOps+CI%2FCD+Pipelines;🛡️+DevSecOps+%7C+TFSec+%7C+Gitleaks+%7C+Trivy;🐧+Linux+VM+Provisioning+on+Azure;🔐+Azure+Key+Vault+%7C+Bastion+%7C+Zero+Trust;🚀+Plan+%E2%80%A2+Approve+%E2%80%A2+Apply+%E2%80%A2+Automate" alt="Typing SVG"/>
-</a>
+<!-- Animated Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=Cloud+Infrastructure+Automation+on+Azure+%E2%98%81%EF%B8%8F;Terraform+%7C+IaC+%7C+Modular+Design+%F0%9F%8F%97%EF%B8%8F;Azure+DevOps+CI%2FCD+Pipelines+%F0%9F%94%81;DevSecOps+%7C+TFSec+%7C+Gitleaks+%7C+Trivy+%F0%9F%9B%A1%EF%B8%8F;Azure+Key+Vault+%7C+Bastion+%7C+Zero+Trust+%F0%9F%94%90;Plan+%E2%80%A2+Approve+%E2%80%A2+Apply+%E2%80%A2+Automate+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<!-- ─────────────  Profile Photo  ───────────── -->
-<img src="https://raw.githubusercontent.com/AnqitG/AnqitG/main/photo.jpg" width="140" height="140" style="border-radius:50%;border:4px solid #00D4FF;box-shadow:0 0 20px #00D4FF;margin-top:10px;" alt="Anqit Gupta"/>
+<!-- Profile Photo — circular via GitHub's image proxy trick -->
+<a href="https://github.com/AnqitG">
+  <img src="https://raw.githubusercontent.com/AnqitG/AnqitG/main/photo.jpg" width="150" alt="Anqit Gupta"/>
+</a>
 
 <br/><br/>
 
-<!-- ─────────────  Snake Animation  ───────────── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AnqitG/AnqitG/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnqitG/AnqitG/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AnqitG/AnqitG/output/github-snake.svg" width="100%"/>
-</picture>
+<!-- Wave separator -->
+<img src="https://raw.githubusercontent.com/AnqitG/AnqitG/main/assets/wave.gif" width="100%" alt="wave" onerror="this.style.display='none'"/>
 
 </div>
 
@@ -124,10 +121,6 @@ GitHub       : https://github.com/AnqitG
 
 ## 🚀 Featured Project
 
-</div>
-
-<div align="center">
-
 [![terraform-azure-modular-infra](https://github-readme-stats.vercel.app/api/pin/?username=AnqitG&repo=terraform-azure-modular-infra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF)](https://github.com/AnqitG/terraform-azure-modular-infra)
 
 </div>
@@ -150,9 +143,8 @@ GitHub       : https://github.com/AnqitG
 <!-- ████████████████████  FOOTER  ████████████████████ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,15,24&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
 
 <sub>⚡ <i>Automating clouds, one module at a time.</i> ⚡</sub>
 
 </div>
-
