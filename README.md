@@ -1,110 +1,97 @@
-<!-- ████████████████████  ANIMATED HEADER BANNER  ████████████████████ -->
+<!-- ==================== HEADER SECTION ==================== -->
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Anqit%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20IaC%20Practitioner&descAlignY=58&descSize=20&descColor=00D4FF" width="100%" alt="Anqit Gupta Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Anqit+Gupta+%F0%9F%91%8B;DevOps+Engineer+%40+Amazon;Cloud+%26+IaC+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
-<!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=Cloud+Infrastructure+Automation+on+Azure;Terraform+%7C+IaC+%7C+Modular+Design;Azure+DevOps+CI%2FCD+Pipelines;Azure+Monitor+%7C+Grafana+%7C+Prometheus;DevSecOps+%7C+TFSec+%7C+Gitleaks+%7C+Trivy;Plan+%E2%80%A2+Approve+%E2%80%A2+Apply+%E2%80%A2+Automate" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=800&height=40&lines=Azure+Infrastructure+Automation+%E2%80%A2+IaC;Terraform+%E2%80%A2+Azure+DevOps+CI%2FCD;Observability+%E2%80%A2+Prometheus+%E2%80%A2+Grafana;DevSecOps+%E2%80%A2+TFSec+%E2%80%A2+Gitleaks+%E2%80%A2+Trivy" alt="Sub Typing SVG" />
 
 <br/>
 
-<!-- Profile Photo -->
-<a href="https://github.com/AnqitG">
-  <img src="https://raw.githubusercontent.com/AnqitG/AnqitG/main/photo.jpg" width="150" alt="Anqit Gupta"/>
-</a>
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AnqitG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnqitG)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-<!-- ████████████████████  ABOUT ME  ████████████████████ -->
-<div align="center">
-
-## 👨‍💻 About Me
-
-</div>
+<!-- ==================== ABOUT ME ==================== -->
+### 👨‍💻 About Me
 
 ```yaml
-Name         : Anqit Gupta
-Role         : DevOps Engineer
-Company      : Amazon Development Center
-Experience   : 3+ Years
-Focus        : Cloud Infrastructure · IaC · CI/CD · Observability
-Cloud        : Microsoft Azure
-IaC          : Terraform (Modular Architecture · Remote State · for_each)
-CI/CD        : Azure DevOps (YAML Templates · Approval Gates · Multi-env)
-Monitoring   : Azure Monitor · Grafana · Prometheus · Alerting · Incident Response
-Version Ctrl : Git · GitHub
-OS           : Linux (Ubuntu)
-GitHub       : https://github.com/AnqitG
+Name        : Anqit Gupta
+Current Org : Amazon Development Center
+Role        : DevOps Engineer
+Experience  : 3+ Years
+Core Domain : Cloud Infrastructure Automation, IaC, CI/CD & Observability
+Cloud       : Microsoft Azure
+IaC Engine  : Terraform (Modular Design, Remote State, Dynamic for_each)
+Pipelines   : Azure DevOps (Multi-Stage YAML Templates, Manual Approval Gates)
+Monitoring  : Azure Monitor, Grafana, Prometheus (Alerting & Triage)
+Security    : TFSec, TFLint, Gitleaks, Trivy (Shift-Left DevSecOps)
 ```
 
 ---
 
-<!-- ████████████████████  TECH STACK BADGES  ████████████████████ -->
-<div align="center">
+<!-- ==================== TECH STACK ==================== -->
+### 🛠️ Tech Stack & Capabilities
 
-## 🛠️ Tech Stack & Tools
-
-<!-- Row 1 — Cloud & IaC -->
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-00A4EF?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-<!-- Row 2 — Monitoring & Observability -->
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-<!-- Row 3 — Systems & Version Control -->
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- Row 4 — Security & Scripting -->
-![TFSec](https://img.shields.io/badge/TFSec-Security-red?style=for-the-badge)
-![TFLint](https://img.shields.io/badge/TFLint-Linting-blueviolet?style=for-the-badge)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-Secret_Scan-orange?style=for-the-badge)
-![Trivy](https://img.shields.io/badge/Trivy-IaC_Scan-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-Templates-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td width="25%"><b>☁️ Cloud & Core IaC</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-00A4EF?style=flat-square&logo=azuredevops&logoColor=white" />
+      <img src="https://img.shields.io/badge/Key_Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📊 Observability</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛡️ DevSecOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TFSec-Security-E0234E?style=flat-square" />
+      <img src="https://img.shields.io/badge/TFLint-IaC_Lint-6C5CE7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gitleaks-Secrets_Scan-FF7675?style=flat-square" />
+      <img src="https://img.shields.io/badge/Trivy-Vulnerability_Scan-1904DA?style=flat-square&logo=aqua&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🐧 Systems & Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/YAML-Pipelines-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ████████████████████  FEATURED PROJECT  ████████████████████ -->
-<div align="center">
+<!-- ==================== FEATURED PROJECT ==================== -->
+### 🚀 Featured Project
 
-## 🚀 Featured Project
+<div align="center">
 
 [![terraform-azure-modular-infra](https://github-readme-stats.vercel.app/api/pin/?username=AnqitG&repo=terraform-azure-modular-infra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF)](https://github.com/AnqitG/terraform-azure-modular-infra)
 
 </div>
 
-> 🧩 **Modular Terraform** · ☁️ **Azure Landing Zone** · 🔁 **Azure DevOps CI/CD** · 🛡️ **DevSecOps** · 🔐 **Azure Bastion + Key Vault**
+> 🧩 **Modular Terraform Engine** · ☁️ **Azure Landing Zone** · 🔁 **Azure DevOps Multi-Stage Pipelines** · 🛡️ **DevSecOps Scanners** · 🔐 **Azure Key Vault & Bastion Zero-Trust**
 
 ---
 
-<!-- ████████████████████  CONNECT  ████████████████████ -->
 <div align="center">
 
-## 🤝 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-AnqitG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnqitG)
-
-</div>
-
----
-
-<!-- ████████████████████  FOOTER  ████████████████████ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
-
-<sub>⚡ <i>Automating clouds, one module at a time.</i> ⚡</sub>
+<sub>⚡ <i>Automating resilient, secure & scalable clouds.</i> ⚡</sub>
 
 </div>
